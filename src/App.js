@@ -11,7 +11,7 @@ function App() {
   );
 }
 export default withLDProvider({
-  clientSideID: "6582673b32b49210483f1f4b",
+  clientSideID: "INSERTyourClientSiteID",
   // context: {
   //   kind: "user",
   //   key: "example_user",
