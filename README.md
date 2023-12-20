@@ -42,12 +42,12 @@
 	- Add `import { withLDProvider } from 'launchdarkly-react-client-sdk';` to the app.js file`
 	```
 
-## That's it! Now you can `npm start` to run the app locally and test the events sent to your LaunchDarkly instance.
+### That's it! Now you can `npm start` to run the app locally (if executed successfully, browser window should open to http://localhost:3000); and you can test the events sent to your LaunchDarkly instance.
 
 ---
 
-# APPENDIX
-# General React and NPM stuff
+### APPENDIX
+### General React and NPM stuff
 
 ## Getting Started with Create React App
 
