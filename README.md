@@ -14,8 +14,8 @@
 3. Visit React Web example app on Github:  https://github.com/launchdarkly/react-client-sdk/tree/main/examples/hoc2
 
 ## Creating Feature Flags in your LaunchDarkly environment
-- [ ] In your LaunchDarkly environment, select `Feature Flags` from the menu
-- [ ] Click the `Create Flag` button
+1. In your LaunchDarkly environment, select `Feature Flags` from the menu
+2. Click the `Create Flag` button
 3. Let's go with `Release` as the use case
 4. Click Next
 5. Name it `showButton`
