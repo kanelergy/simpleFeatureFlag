@@ -8,14 +8,14 @@
 2. Getting Started with LaunchDarkly platform and feature flag management!  https://docs.launchdarkly.com/home/getting-started
 
 ## Level-up your knowledge of SDKs via LaunchDarkly's SDK documentation
-**Understanding how to implement SDK in React app
+**Understanding how to implement SDK in React app**
 1. Chosen React for programming lang: https://launchdarkly.com/features/sdk/
 2. Acclimate to client-side SDK for React : React Web SDK Reference:  https://docs.launchdarkly.com/sdk/client-side/react/react-web
 3. Visit React Web example app on Github:  https://github.com/launchdarkly/react-client-sdk/tree/main/examples/hoc2
 
 ## Creating Feature Flags in your LaunchDarkly environment
-1. In your LaunchDarkly environment, select `Feature Flags` from the menu
-2. Click the `Create Flag` button
+- [ ] In your LaunchDarkly environment, select `Feature Flags` from the menu
+- [ ] Click the `Create Flag` button
 3. Let's go with `Release` as the use case
 4. Click Next
 5. Name it `showButton`
@@ -46,14 +46,14 @@
 
 ---
 
-### APPENDIX
-### General React and NPM stuff
+## APPENDIX
+## General React and NPM stuff
 
-## Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
