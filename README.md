@@ -1,5 +1,5 @@
-### Welcome to feature flag management with LaunchDarkly
-### A step-by-step guide for newbies and beginners alike to better understand how the LaunchDarkly SDK can be added to your app
+# Welcome to feature flag management with LaunchDarkly
+# A step-by-step guide for newbies and beginners alike to better understand how the LaunchDarkly SDK can be added to your app
 
 ## Sign-up and get up to speed on the basics for LaunchDarkly
 1. **LaunchDarkly Trial**
@@ -14,9 +14,9 @@
 	c. Visit React Web example app on Github:  https://github.com/launchdarkly/react-client-sdk/tree/main/examples/hoc2
 
 ## Creating Feature Flags in your LaunchDarkly environment
-1. In your LaunchDarkly environment, select "Feature Flags" from the menu
-2. Click the "Create Flag" button
-3. Let's go with "Release" as the use case
+1. In your LaunchDarkly environment, select `Feature Flags` from the menu
+2. Click the `Create Flag` button
+3. Let's go with `Release` as the use case
 4. Click Next
 5. Name it `showButton`
 6. Click Next (Optional, but you can also add a contextual Description)
@@ -32,7 +32,7 @@
 	b. First step is to go to your LaunchDarkly platform and go to "Feature Flags" on the menu and click on "[Connect an SDK](https://app.launchdarkly.com/get-started/connect-an-sdk)" *Make sure you're in the right Project*
 
 	c. This page is critical. Follow the step by step onscreen instructions on how to connect LaunchDarkly to your application, from `Selecting and environment and SDK` all the way through to `Testing your application`
-	# Some useful notes:
+	### Some useful notes:
 	
 	In your IDE you MAY need to:
 	> edit your app.js file:
@@ -42,14 +42,14 @@
 	- Add `import { withLDProvider } from 'launchdarkly-react-client-sdk';` to the app.js file`
 	```
 
-That's it! Now you can `npm start` to run the app locally and test the events sent to your LaunchDarkly instance.
+## That's it! Now you can `npm start` to run the app locally and test the events sent to your LaunchDarkly instance.
 
 ---
 
-### APPENDIX
-## General React and NPM stuff
+# APPENDIX
+# General React and NPM stuff
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
